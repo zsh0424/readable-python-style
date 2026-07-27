@@ -1,0 +1,4 @@
+interface:
+  display_name: "Readable Python Style"
+  short_description: "Readable, simple Python with clear Chinese comments"
+  default_prompt: "Use $readable-python-style to write or revise this Python code in a simple, readable style with clear Chinese comments."
